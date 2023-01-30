@@ -63,10 +63,10 @@ display: line;
     z-index: 25;
     h1{
         color: $theme-color;
-        font-size:75px;
+        font-size:50px;
     }
     h2{
-        font-size:25px;
+        font-size:20px;
     }
 }
 
@@ -136,30 +136,30 @@ text-align: center;
 margin-bottom: $vertical-spacing-unit;
 }
 .post-title {
-font-size: 42px;
+font-size: 30px;
 letter-spacing: -1px;
 line-height: 1;
 @include media-query($on-laptop) {
-font-size: 36px;
+font-size: 30px;
     }
 }
 .post-content {
 h2 {
-font-size: 42px;
+font-size: 20px;
 @include media-query($on-laptop) {
-font-size: 28px;
+font-size: 20px;
         }
     }
 h3 {
-font-size: 30px;
+font-size: 16px;
 @include media-query($on-laptop) {
-font-size: 22px;
+font-size: 16px;
         }
     }
 h4 {
-font-size: 20px;
+font-size: 14px;
 @include media-query($on-laptop) {
-font-size: 18px;
+font-size: 14px;
         }
     }
 }
@@ -170,7 +170,7 @@ margin-bottom: 0px;
 }
 .post-link {
 display: block;
-font-size: 42px;
+font-size: 30px;
 }
 
 /** Poem formatting ********************************************/

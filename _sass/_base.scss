@@ -8,14 +8,14 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700&subset=latin-ext');
 
 
 /** Variables **********************************************/
-$base-font-family:              Helvetica, sans-serif;
+$base-font-family:              'Open Sans', sans-serif;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
-$vertical-spacing-unit:         40px;
+$vertical-spacing-unit:         10px;
 $nav-height:                    56px;
 
 /* portfolio tinkering */
