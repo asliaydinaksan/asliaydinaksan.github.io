@@ -172,6 +172,11 @@ margin-bottom: 0px;
 display: block;
 font-size: 30px;
 }
+.tags-container {
+    font-size: $small-font-size;
+    color: $grey-color;
+    margin-bottom: 0px; 
+}
 
 /** Poem formatting ********************************************/
 .poem-title {
@@ -211,6 +216,7 @@ height: 230px;
 overflow: hidden;
 }
 .thumbnail img{
+max-width: none;
 width: 500px;
 height: auto;
 position: relative;

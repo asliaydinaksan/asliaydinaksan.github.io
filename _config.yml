@@ -17,7 +17,7 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 
 # Pagination
-paginate: 15
+paginate: 50
 paginate_path: "/blog/page:num/"
 
 
@@ -25,8 +25,4 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
-
-
+  

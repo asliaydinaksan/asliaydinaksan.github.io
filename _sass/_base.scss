@@ -86,13 +86,16 @@ hr{
  * Figures
  */
 figure > img {
-    display: block;
+    display: block
 }
 
 figcaption {
     font-size: $small-font-size;
 }
 
+.post img {
+    max-width: 100%;
+  }
 
 
 /**
