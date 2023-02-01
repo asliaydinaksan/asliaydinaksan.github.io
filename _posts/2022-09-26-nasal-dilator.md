@@ -1,11 +1,9 @@
 ---
-title: "Nasal Dilator"
-date: 2022-09-26T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /nasal-dilator/
-categories: General
-tags: [open thursday, 3d printing, Rhinoceros]
+title: Nasal Dilator
+date: 2022-09-26
+description:
+tags: [3d printing, rhinoceros]
 ---
 
 On open thursday, we had a request to make a nasal dilator. The nasal dilator was for an elderly man who had broken his nose and now he had difficulty breathing through one nostril because that nostril was blocked. To fix it, he needed a device which would open and keep it that way.

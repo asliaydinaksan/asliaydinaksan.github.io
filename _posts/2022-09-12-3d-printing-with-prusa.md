@@ -1,11 +1,9 @@
 ---
-title: "3D Printing with Prusa"
-date: 2022-09-12T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /3d-printing-with-prusa/
-categories: General
-tags: [3d printing, machines, prusa i3MK3S, tutorial]
+title: 3D Printing with Prusa
+date: 2022-09-12
+description:
+tags: [3d printing, howto]
 ---
 
 ![3D Printer](/assets/images/2022-09-12-3d-printing-with-prusa/20220927_150317.jpg "3D Printer")

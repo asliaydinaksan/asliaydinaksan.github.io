@@ -9,19 +9,16 @@ layout: default
     <p class="post-description"> an archive of posts with this tag </p>
   </header>
 
-  <article>
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        {% for post in page.posts %}
-        <tr>
-          <th scope="row">{{ post.date | date: "%d. %m. %Y" }}</th>
-          <td>
-              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </td>
-        </tr>
-      {% endfor %}
-      </table>
-    </div>
-  </article>
+  <ul class="post-list">
+    {% for post in page.posts %}
+      <li>
+        <h2> <span class="post-meta">{{ post.date | date: "%d. %m. %Y"}}</span>  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>  </h2>
+        <!--<p class="post-meta">{{ post.date | date: "%d. %m. %Y"}}</p> -->
+        <!-- <p>{{ post.description }}</p> -->
+        <!-- <br/> -->
+        <hr/>
+      </li>
+    {% endfor %}
+  </ul>
 
 </div>

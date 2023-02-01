@@ -13,8 +13,10 @@ markdown: kramdown
 
 highlighter: rouge
 
-
-plugins: [jekyll-paginate]
+# Plug-ins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
 
 # Pagination
 paginate: 50

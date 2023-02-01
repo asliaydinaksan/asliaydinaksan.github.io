@@ -29,7 +29,7 @@ layout: default
 <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <h2><span class="post-meta">{{ post.date | date: "%d. %m. %Y"}}</span>  <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>  </h2>
+        <h2> <span class="post-meta">{{ post.date | date: "%d. %m. %Y"}}</span>  <a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>  </h2>
         <!--<p class="post-meta">{{ post.date | date: "%d. %m. %Y"}}</p> -->
         <!-- <p>{{ post.description }}</p> -->
         <!-- <br/> -->

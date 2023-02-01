@@ -1,11 +1,9 @@
 ---
-title: "Lasercutting Catalog"
-date: 2022-11-01T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /lasercutting-catalog/
-categories: General
-tags: [lasercutting, machines, lightburn, rhinoceros, slicer for fusion]
+title: Laser Cutting Catalog
+date: 2022-11-01
+description:
+tags: [laser cutting]
 ---
 
 We have a lasercutting Maker Skills Course coming on the 4th of November. I wanted make some samples of things that can be achieved with lasercutting.

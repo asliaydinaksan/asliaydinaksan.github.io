@@ -1,11 +1,9 @@
 ---
-title: "PCB Milling with Modela"
-date: 2022-09-27T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /pcb-milling-with-modela/
-categories: General
-tags: [pcb, pcb milling, machines, modela mdx 20, tutorial]
+title: PCB Milling with Modela
+date: 2022-09-27
+description:
+tags: [electronics, pcb milling, mods, howto]
 ---
 
 ![PCB milling](/assets/images/2022-09-27-PCB-milling-with-modela/20220927_150236.jpg "PCB milling")

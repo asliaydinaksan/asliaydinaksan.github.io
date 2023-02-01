@@ -1,10 +1,8 @@
 ---
-title: "Vinyl Cutter Calibration"
-date: 2022-09-20T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /vinyl-cutter-calibration/
-categories: General
+title: Vinyl Cutter Calibration
+date: 2022-09-20
+description:
 tags: [vinyl cutting]
 ---
 

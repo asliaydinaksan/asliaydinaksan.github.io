@@ -1,10 +1,8 @@
 ---
-title: "Creating Custom GCodes"
-date: 2022-11-07T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /creating-custom-gcode/
-categories: General
+title: Creating Custom GCodes
+date: 2022-11-07
+description:
 tags: [3d printing, rhinoceros, grasshopper]
 ---
 

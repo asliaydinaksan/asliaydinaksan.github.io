@@ -1,11 +1,9 @@
 ---
-title: "Material List for Lasercutting"
-date: 2022-09-29T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /material-list-for-lasercutting/
-categories: General
-tags: [lasercutting, machines]
+title: Material List for Lasercutting
+date: 2022-09-29
+description:
+tags: [laser cutting]
 ---
 
 | MATERIALS SUITABLE FOR CUTTING | WARNINGS |

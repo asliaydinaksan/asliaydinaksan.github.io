@@ -1,11 +1,9 @@
 ---
-title: "Vinyl Cutter and Heat Press"
-date: 2022-09-19T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /vinyl-cutter-and-heat-press/
-categories: General
-tags: [vinyl cutting, heat press, machines, roland gx-24 gs-24, vevor 8-in-1, tutorial]
+title: Vinyl Cutter and Heat Press
+date: 2022-09-19
+description:
+tags: [vinyl cutting, mods, heat press, howto]
 ---
 
 ![vinyl cutter main](/assets/images/2022-09-19-vinyl-cutter/20220927_150340.jpg "vinyl cutter main")

@@ -1,11 +1,9 @@
 ---
-title: "CNC Milling Personal Box"
-date: 2022-10-21T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /cnc-milling-personal-box/
-categories: General
-tags: [cnc milling, machines, shopbot, tutorial, rhinoceros]
+title: CNC Milling Personal Box
+date: 2022-10-21
+description:
+tags: [cnc milling, rhinoceros]
 ---
 
 ![box](/assets/images/2022-10-21-CNC-milling-personal-box/20221019_115244.jpg "box")

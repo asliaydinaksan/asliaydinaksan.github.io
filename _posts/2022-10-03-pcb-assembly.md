@@ -1,11 +1,9 @@
 ---
-title: "PCB Assembly"
-date: 2022-10-03T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /psb-assembly/
-categories: General
-tags: [tutorial, pcb, electronics]
+title: PCB Assembly
+date: 2022-10-03
+description:
+tags: [electronics, howto]
 ---
 
 We milled a UART board [previously](https://asliaydinaksan.github.io//pcb-milling-with-modela/). In this tutorial, we are soldering the board.

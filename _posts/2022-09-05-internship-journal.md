@@ -2,7 +2,8 @@
 layout: post
 title: Internship Journal
 date: 2022-09-05
-tags: [journal, misc]
+description:
+tags: [other posts]
 ---
 ## Week 1
 **Fri** On my first day at the Fablab, we set up my e-mail and my internal messaging account. I started with creating a website (this website) for documention of my work here at the lab. The path to using a SSG tool is frustrating.

@@ -1,11 +1,9 @@
 ---
-title: "Paper Folding"
-date: 2022-10-31T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /paper-folding/
-categories: General
-tags: [misc, geometry]
+title: Paper Folding
+date: 2022-10-31
+description:
+tags: [other posts]
 ---
 
 I wanted to make some tests with paper folding to show how laser cutting can create 3 dimensionality for paper.

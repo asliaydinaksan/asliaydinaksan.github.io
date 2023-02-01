@@ -1,12 +1,9 @@
 ---
-title: "Useful Links"
-date: 2022-09-30T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /useful-links/
-categories: General
-tags: [misc]
-image: /assets/images/asli.jpg
+title: Useful Links
+date: 2022-09-30
+description:
+tags: [other posts]
 ---
 
 [Template maker](https://www.templatemaker.nl/en/)

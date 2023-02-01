@@ -1,11 +1,9 @@
 ---
-title: "3D Printing with TPE Filament"
-date: 2022-09-30T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /3d-printing-with-tpe-filament/
-categories: General
-tags: [3d printing, machines, prusa i3MK3S, open thursday]
+title: 3D Printing with TPE Filament
+date: 2022-09-30
+description:
+tags: [3d printing, howto]
 ---
 
 TPE filament is a rubber-like semi-flexible filament. It was ordered from [3DJake](https://www.3djake.nl/fillamentum/flexfill-tpe-90a-natural).

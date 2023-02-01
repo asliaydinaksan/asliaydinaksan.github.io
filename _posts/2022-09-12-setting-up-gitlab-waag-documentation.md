@@ -1,11 +1,9 @@
 ---
-title: "Setting up Gitlab Waag Documentation"
-date: 2022-09-12T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /setting-up-gitlab-waag-documentation/
-categories: General
-tags: [GitHub, MkDocs]
+title: Setting up Gitlab Waag Documentation
+date: 2022-09-12
+description:
+tags: [gitlab, mkdocs, howto]
 ---
 Following is a step-by-step explanation of how I set up **Gitlab** with **MkDocs** to work on Waag documentation.
 

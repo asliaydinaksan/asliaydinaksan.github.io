@@ -1,11 +1,9 @@
 ---
-title: "Lasercutting"
-date: 2022-09-26T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /lasercutting/
-categories: General
-tags: [lasercutting, machines, lightburn, BRM1612, rhinoceros, slicer for fusion, tutorial]
+title: Laser Cutting with BRM Lasercutter
+date: 2022-09-26
+description:
+tags: [laser cutting, rhinoceros, howto]
 ---
 
 ![Laser cutter](/assets/images/2022-09-26-lasercutting/20220927_150303.jpg "Laser cutter")

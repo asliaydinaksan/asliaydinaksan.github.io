@@ -1,11 +1,9 @@
 ---
-title: "CNC Milling with Shopbot"
-date: 2022-10-11T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /cnc-milling-with-shopbot/
-categories: General
-tags: [cnc milling, machines, shopbot, tutorial]
+title: CNC Milling with Shopbot
+date: 2022-10-11
+description:
+tags: [cnc milling, how to]
 ---
 
 ![CNC milling](/assets/images/2022-10-12-CNC-milling-with-shopbot/20221014_095046.jpg "CNC milling")

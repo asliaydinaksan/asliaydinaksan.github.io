@@ -1,11 +1,9 @@
 ---
-title: "Loom Research"
-date: 2022-09-15T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /loom-research/
-categories: General
-tags: [internship project, loom]
+title: Loom Research
+date: 2022-09-15
+description:
+tags: [internship project]
 ---
 Every intern at the Fablab is required to have one big project that they work on during their internship. I proposed to make a digital jacquard loom that 
 

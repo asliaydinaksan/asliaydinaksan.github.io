@@ -1,11 +1,9 @@
 ---
-title: "Save SVG Correctly"
-date: 2022-09-28T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /save-svg-correctly/
-categories: General
-tags: [pcb milling, vinylcutting]
+title: Save SVG Correctly
+date: 2022-09-28
+description:
+tags: [mods, vinyl cutting, pcb milling, howto]
 ---
 
 You need SVG type files for vinylcutting and pcb milling. Sometimes, you get a dimension error in mods when you upload your file as seen in the image.

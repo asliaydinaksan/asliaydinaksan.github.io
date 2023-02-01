@@ -1,11 +1,9 @@
 ---
-title: "Truchet Tiles"
-date: 2022-10-31T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /truchet-tiles/
-categories: General
-tags: [misc, geometry]
+title: Truchet Tiles
+date: 2022-10-31
+description:
+tags: [other posts]
 ---
 
 I think we can make a small workshop with truchet tiles.

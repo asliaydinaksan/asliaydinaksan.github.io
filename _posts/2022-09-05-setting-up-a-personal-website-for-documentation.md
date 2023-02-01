@@ -1,11 +1,9 @@
 ---
-title: "Setting up a personal website for documentation"
-date: 2022-09-05T01:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /setting-up-a-personal-website-for-documentation/
-categories: General
-tags: [GitHub, Jekyll]
+title: Setting Up a Personal Website for Documentation
+date: 2022-09-05
+description:
+tags: [github, jekyll, howto]
 ---
 Following is a step-by-step explanation of how I set up this website. This is a static website which runs on **GitHub** and **Jekyll**.
 

@@ -1,11 +1,9 @@
 ---
-title: "Introduction to Microcontrollers"
-date: 2022-09-28T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /introduction-to-microcontrollers/
-categories: General
-tags: [pcb, electronics]
+title: Introduction to Microcontrollers
+date: 2022-09-28
+description:
+tags: [electronics]
 ---
 
 I want to share the basic things I learnt today about PCBs.

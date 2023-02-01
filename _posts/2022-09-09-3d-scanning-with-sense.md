@@ -1,11 +1,9 @@
 ---
-title: "3D Scanning with Sense"
-date: 2022-09-09T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /3d-scanning-with-sense/
-categories: General
-tags: [3d scanning, sense, machines, tutorial]
+title: 3D Scanning with Sense
+date: 2022-09-09
+description:
+tags: [3d scanning, howto]
 ---
 
 ![3D Scanner](/assets/images/2022-09-09-3d-scanning-with-sense/20220909_135334.jpg "3D Scanner") 

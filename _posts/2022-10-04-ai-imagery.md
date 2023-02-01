@@ -1,11 +1,9 @@
 ---
-title: "AI imagery"
-date: 2022-10-04T00:00:00+00:00
-author: Asli Aydin Aksan
 layout: post
-permalink: /ai-imagery/
-categories: General
-tags: [misc, ai]
+title: AI Imagery
+date: 2022-10-04
+description:
+tags: [other posts]
 ---
 
 Yesterday, we had a conversation with Henk about creating images in AI software.
