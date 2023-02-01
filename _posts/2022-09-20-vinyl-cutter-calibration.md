@@ -5,7 +5,7 @@ author: Asli Aydin Aksan
 layout: post
 permalink: /vinyl-cutter-calibration/
 categories: General
-tags: [vinylcutting]
+tags: [vinyl cutting]
 ---
 
 Vinyl cutter was not cutting properly while we were going over the tutorial. No matter how much we increased the force (we went up to 200gf at some point), it was still not going through the vinyl layer.

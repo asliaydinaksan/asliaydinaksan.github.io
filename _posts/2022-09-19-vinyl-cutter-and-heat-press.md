@@ -5,7 +5,7 @@ author: Asli Aydin Aksan
 layout: post
 permalink: /vinyl-cutter-and-heat-press/
 categories: General
-tags: [vinylcutting, heat press, machines, roland gx-24 gs-24, vevor 8-in-1, tutorial]
+tags: [vinyl cutting, heat press, machines, roland gx-24 gs-24, vevor 8-in-1, tutorial]
 ---
 
 ![vinyl cutter main](/assets/images/2022-09-19-vinyl-cutter/20220927_150340.jpg "vinyl cutter main")
