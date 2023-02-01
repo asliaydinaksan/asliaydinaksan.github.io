@@ -6,9 +6,14 @@ description:
 tags: [3d printing]
 ---
 
+I prepared the following post for the Fablab Documentation page. 
+
+<br>
+
+
 We have quiet a good selection of filaments at the lab with diameters 1,75mm and 2,85mm. Filaments with 1,75mm diameter are suitable for the Prusa i3 MK3S, Creality Ender 3 and SainSmart Infi-20 machines at the lab. 2,85mm filaments are suitable for the Ultimaker 2+ machine. 
 
-You can use the below tables to choose appropriate materials for your projects. Please note that PLA is an elemantary filament that is suitable for prototyping and is more environmentally friendly. Therefore it is the most common used filament at the lab.
+You can use the below tables to choose appropriate materials for your projects. Most of the filaments are available at the lab. Please note that PLA is an elemantary filament that is suitable for prototyping and more environmentally friendly than other options. Therefore it is the most common used filament at the lab.
 
 | <div style="width:50px">POLYMERS</div> | FEATURES | <div style="width:170px">PROS</div> | <div style="width:170px">CONS</div> |
 | ---- | ---- | ---- | ---- |
