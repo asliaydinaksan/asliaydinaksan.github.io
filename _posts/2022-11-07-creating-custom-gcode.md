@@ -5,7 +5,7 @@ author: Asli Aydin Aksan
 layout: post
 permalink: /creating-custom-gcode/
 categories: General
-tags: [3d printing, machines, prusa i3MK3S, rhinoceros, grasshopper]
+tags: [3d printing, rhinoceros, grasshopper]
 ---
 
 I wanted to be able to create my own gcodes to explore 3D printings material effects further.

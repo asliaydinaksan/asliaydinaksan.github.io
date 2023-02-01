@@ -25,4 +25,11 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  
+
+
+jekyll-archives:
+  enabled: [tags]
+  layouts:
+    tag: archive-tag
+  permalinks:
+    tag: '/tag/:name/'

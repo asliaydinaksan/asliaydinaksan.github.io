@@ -11,20 +11,20 @@ layout: default
 </div>
 
 <section class="tags">
-  <h3>Tags:</h3>
   {% assign tags = site.tags | sort %}
   {% for tag in tags %}
-  <ul>
-    <li>
-	    <a class="posts" href="{{ site.url }}/tags/{{ tag | first | slugify }}/">{{ tag[0] | replace:'-', ' '
+  	    <a class="posts" href="{{ site.url }}/tag/{{ tag | first | slugify }}/">#{{ tag[0] | replace:'-', ' '
         }} ({{ tag | last | size
-        }}){% unless forloop.last %}, {% endunless %}
+        }})  {% unless forloop.last %}, {% endunless %}
       </a>
-    </li>
-  </ul>
   {% endfor %}
 </section>
 
+<br>
+
+<hr>
+
+<br>
 
 <ul class="post-list">
     {% for post in paginator.posts %}

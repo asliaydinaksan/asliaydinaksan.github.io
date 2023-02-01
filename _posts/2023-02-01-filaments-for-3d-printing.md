@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Filaments for 3D printing
-date: 2023-01-31
+date: 2023-02-01
 description: 
 tags: [3d printing]
 ---
@@ -15,7 +15,7 @@ We have quiet a good selection of filaments at the lab with diameters 1,75mm and
 
 You can use the below tables to choose appropriate materials for your projects. Most of the filaments are available at the lab. Please note that PLA is an elemantary filament that is suitable for prototyping and more environmentally friendly than other options. Therefore it is the most common used filament at the lab.
 
-| <div style="width:50px">POLYMERS</div> | FEATURES | <div style="width:170px">PROS</div> | <div style="width:170px">CONS</div> |
+| POLYMERS | FEATURES | PROS | CONS |
 | ---- | ---- | ---- | ---- |
 | PLA | Plant-based, biologically degradable | ✔ Low price<br>✔ Easy to print, suitable for beginners<br>✔ Good detail and low warping<br>✔ Suitable for large models | ✖ Brittle and inflexible<br>✖ Low UV and temperature resistance<br>✖ Difficult post-processing |
 | PETG | Commonly used technical material, food-safe (with special coating) | ✔ Easy to print<br>✔ Good layer adhesion<br>✔ Tough and durable<br>✔ Low warping<br>✔ High temperature-resistance<br>✔ Water and humidity resistant | ✖ Possibility of stringing<br>✖ Poor bridging and overhangs<br>✖ Not great for printing detailed parts<br>✖ Bonds strongly to the print surface<br>✖ Soluble in dangerous chemicals<br>✖ Supports are hard to remove |
@@ -26,7 +26,7 @@ You can use the below tables to choose appropriate materials for your projects. 
 | PVA | Water-soluble plastic that is very suitable as a supporting material | ✔ Very suitable as support material<br>✔ Adheres well to PLA and ABS<br>✔ Enables complex 3D printing | ✖ Should be stored airtight<br>✖ Reacts very quickly to water |
 | TPE/TPU | Flexible parts which can stretch and bend | ✔ Flexible and soft<br>✔ Excellent vibration dampening<br>✔ Long shelf life<br>✔ Good impact resistance | ✖ Difficult to print<br>✖ Poor bridging characteristics<br>✖ Possibility of blobs and stringing<br>✖ May not work well on Bowden extruders |
 
-| <div style="width:50px">FILLERS</div> | FEATURES | <div style="width:150px">PROS</div> | <div style="width:150px">CONS</div> |
+| FILLERS | FEATURES | PROS | CONS |
 | ---- | ---- | ---- | ---- |
 | Wood<br>Cork<br>Hemp | Usually combined with PLA base<br>Used for their final look, feel and smell | ✔ Does not need any expensive wear resistant nozzles | ✖ Prone to stringing<br>✖ Require a larger size nozzle |
 | Metal | Usually combined with PLA base<br>Used for their final look, feel and smell | ✔ Does not need high-temperature extruder<br>✔ Heavier than standard filaments | ✖ Requires a wear-resistant nozzle<br>✖ Printed parts are very brittle<br>✖ Very poor bridging and overhangs<br>✖ Require a hardened nozzle, like brass<br>✖ Expensive |
