@@ -112,7 +112,7 @@ color: $theme-color;
 padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 .page-heading {
-font-size: 20px;
+font-size: 24px;
 }
 .post-list {
 margin: 0px 0;
@@ -122,7 +122,7 @@ margin-bottom: $vertical-spacing-unit;
     }
 }
 .contacticon {
-font-size: 60px;
+font-size: 30px;
 display:block;
 margin: 10px;
 }
@@ -136,28 +136,32 @@ text-align: center;
 margin-bottom: $vertical-spacing-unit;
 }
 .post-title {
-font-size: 30px;
+font-size: 24px;
+font-weight: 500;
 letter-spacing: -1px;
 line-height: 1;
 @include media-query($on-laptop) {
-font-size: 30px;
+font-size: 24px;
     }
 }
 .post-content {
 h2 {
 font-size: 20px;
+font-weight: 500;
 @include media-query($on-laptop) {
 font-size: 20px;
         }
     }
 h3 {
 font-size: 16px;
+font-weight: 500;
 @include media-query($on-laptop) {
 font-size: 16px;
         }
     }
 h4 {
 font-size: 14px;
+font-weight: 500;
 @include media-query($on-laptop) {
 font-size: 14px;
         }
@@ -170,7 +174,8 @@ margin-bottom: 0px;
 }
 .post-link {
 display: block;
-font-size: 30px;
+font-size: 24px;
+font-weight: 500;
 }
 .post-tags {
     font-size: $small-font-size;

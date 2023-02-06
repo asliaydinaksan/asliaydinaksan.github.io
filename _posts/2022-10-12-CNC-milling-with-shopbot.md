@@ -3,7 +3,7 @@ layout: post
 title: CNC Milling with Shopbot
 date: 2022-10-11
 description:
-tags: [cnc milling, how to]
+tags: [cnc milling, howto]
 ---
 
 ![CNC milling](/assets/images/2022-10-12-CNC-milling-with-shopbot/20221014_095046.jpg "CNC milling")
@@ -296,5 +296,7 @@ IMPORTANT: <b>Save drilling toolpath separately from the rest of the toolpaths.<
 <br>
 </details>
 
+
+<br>
 
 <img src="/assets/images/2022-10-12-CNC-milling-with-shopbot/20221012_165920.jpg" alt= "cnc milled part">

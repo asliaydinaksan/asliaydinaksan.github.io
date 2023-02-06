@@ -9,7 +9,8 @@ tags: [3d printing]
 I prepared the following post for the Fablab Documentation page. 
 
 <br>
-
+<hr>
+<br>
 
 We have quiet a good selection of filaments at the lab with diameters 1,75mm and 2,85mm. Filaments with 1,75mm diameter are suitable for the Prusa i3 MK3S, Creality Ender 3 and SainSmart Infi-20 machines at the lab. 2,85mm filaments are suitable for the Ultimaker 2+ machine. 
 

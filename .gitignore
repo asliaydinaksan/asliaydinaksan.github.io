@@ -1,7 +1,9 @@
 
 # Folders
 _site/
-_examplePosts/
+_exampleposts/
+_exampleportfolio/
+_examplecollections/
 
 # Windows thumbnail cache files
 Thumbs.db
