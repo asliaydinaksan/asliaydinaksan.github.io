@@ -39,53 +39,27 @@ The x, y and z coordinates are directly fed to the middle part of the gcode as c
 
 ## 3d printing
 
-I found a used 10mm thick plywood sheet of dimensions 700mm by 1200mm with glue residue and drilled holes on it. Since the irregularities did not interfere with the overall design, I wanted to reuse this plywood. I sanded the glue residue and checked the material for leftover nails or screws (it is really important that there is no metal on the sheet. If the drill bit of the ShopBot hits a metal part there is a risk of metal shavings reaching the wood dust collection bag and starting fire.) before laying it on the milling bed.
+<iframe src="/assets/imagesPortfolio/2022-12-15-variable-extrusion/VID_38960315_101411_059.mp4"> </iframe>
+![printing](/assets/imagesPortfolio/2022-12-15-variable-extrusion/VID_38960315_101411_059.mp4)
 
-In VCarve Pro, I created separate toolpaths for drilling, pockets, inner profiles and outer profiles. I cut the drilling toolpath and fixed the plywood sheet on the milling bed with Woodies. I sent the test part toolpaths to the machine without allowances.
+I started printing with fixed extrusion divider by 2 and contour height of 0.8mm. I observed that extrusion was too much and contouring distance was too much that the layers were not sticking to each other. The latter problem became more prominant in top layers.
 
-<!-- insert an image the test pieces here -->
+![test1](/assets/imagesPortfolio/2022-12-15-variable-extrusion/startfishBoth1.jpg)
 
-<hr>
-### About Allowances
+The second test uses a fixed extrusion divider of 4 and contour height of 0.45mm. This print came out nice, so these values can be used for a result similar to results from consumer available slicers.
+![test2](/assets/imagesPortfolio/2022-12-15-variable-extrusion/startfishBoth2.jpg)
 
-In a digital world, the parts do not need any tolerance to fit together. The faces of the parts can be flush and they do not create a problem. In the physical world, however, the material frictions, irregularities and the function of the part require creating allowances. Allowance is a planned deviation between an exact dimension and an intended final dimension.
-<hr>
+I started testing with random extrusion. From this point on, I did not change contour height but focused on extrusion amounts. The third test uses a random extrusion divider of range 2.5 and 5. 
+![test3](/assets/imagesPortfolio/2022-12-15-variable-extrusion/startfishBoth3.jpg)
 
-In the test parts, no detail was able to slide or fit into each other as expected. However, I was able to calculate the required allowances based on how much the final dimensions (the dimensions of the fabricated parts) deviated from exact dimensions (the dimensions in the digital model). Then, I created toolpaths for the sliding lid, sliding bottom panel and press fit parts separately, giving each an allowance offset. The Sliding lid and bottom panel pockets have different allowances beacuse I want the bottom panel to slide in with force and stay in its place afterwards, whereas, I wanted the sliding lid to have some room around it so it can slide in and out without force during use. I further separated inner pocket toolpaths according to their raster direction. You want the rastering direction along the longest side of the shapes.
+Extrusion divider of range 1.8 and 6.
+![test4](/assets/imagesPortfolio/2022-12-15-variable-extrusion/startfishBoth4.jpg)
 
-(All the images are clickable if you want to see the values and specifics of each toolpath)
 
-The material definition in VCarve Pro:
+contour height = 0.65
+extrusion divider
+spiral = 3
+pattern of = 1.5 7 7 1.5
 
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/1.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/1.jpg)
-
-Drilling toolpath for locating the places of screws:
-
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/2.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/2.jpg)
-
-Pocket toolpath for sliding lid part and lid handles with raster angle 180° and allowance of -1.00mm:
-
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/7.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/7.jpg)
-
-Pocket toolpath for sliding lid part with raster angle 90° and allowance of -1.0mm:
-
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/8.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/8.jpg)
-
-Pocket toolpath for sliding bottom part with raster angle 90° and allowance of -0.5mm:
-
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/9.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/9.jpg)
-
-Inner profile toolpath with inside vectors and allowance of -0.5mm:
-
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/10.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/10.jpg)
-
-Outer profile toolpath with outside vectors and allowance of -0.3mm:
-
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/11.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/11.jpg)
-
-3D preview of all toolpaths:
-
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/13.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/13.jpg)
-
-A few seconds of the milling job. CNC milling machines are really powerful machines. Therefore, they need to be carried out with great focus and observation of the process. Please refer to this [documentation on CNC milling](/_posts/2022-10-12-CNC-milling-with-shopbot.md) for further instructions on how to run the machine and follow the safety protocols.
+![test5](/assets/imagesPortfolio/2022-12-15-variable-extrusion/startfishBoth5.jpg)
 
