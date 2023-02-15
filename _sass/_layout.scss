@@ -228,11 +228,12 @@ overflow: hidden;
 }
 .thumbnail img{
 max-width: none;
-width: 500px;
+// width: 500px;
+width: 100%;
 height: auto;
 position: relative;
-left: -25%;
-top: -5%;
+// left: -25%;
+// top: -5%;
 }
 .thumbnail a{
 float: left;
@@ -317,4 +318,8 @@ table {
     padding: 5px;
     background-color: #303030;
     color: white;
+  }
+
+  div.imgTable {
+    border: none;
   }

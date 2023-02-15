@@ -14,8 +14,8 @@ markdown: kramdown
 highlighter: rouge
 
 # Plug-ins
-plugins:
-  - jekyll-archives
+# plugins:
+#   - jekyll-archives
 
 
 collections:
@@ -30,3 +30,5 @@ jekyll-archives:
     tag: archive-tag
   permalinks:
     tag: '/tag/:name/'
+
+
