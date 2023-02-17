@@ -31,7 +31,7 @@ You can learn more about gcodes from [Marlin's website](https://marlinfw.org/met
 
 Since I used the Prusa i3 MK3S printer, I looked at a gcode file I created previously with Prusa Slicer to obtain and modify the start and end gcodes.
 
-I created an algorithm which imports spiral curve and lofted form from Rhinoceros. Lofted form is contoured to create a series of contour curves. All the curves are divided by a certain number to obtain points along them. The points are broken down to their x,y,z coordinates. 
+For the middle part of the gcode, I created an algorithm which imports spiral curve and lofted form from Rhinoceros. Lofted form is contoured to create a series of contour curves. All the curves are divided by a certain number to obtain points along them. The points are broken down to their x,y,z coordinates. 
 
 The x, y and z coordinates are directly fed to the middle part of the gcode as coordinates. The **E** variable in middle part, which is the extrusion amount, is found by a factor of the distance between two consecutive points. First I created a fixed extrusion component to find optimum extrusion. Later on, I wanted to give randomness to the extrusion amount within bounds which would print without problem. In the definition below, you can activate fixed extrusion by connecting **f** line and random extrusion by connecting **r** line to the division component (click on the image to see it bigger).
 
@@ -47,19 +47,18 @@ I started printing with fixed extrusion divider by 2 and contour height of 0.8mm
 ![test1](/assets/imagesPortfolio/2022-12-15-variable-extrusion/startfishBoth1.jpg)
 
 The second test uses a fixed extrusion divider of 4 and contour height of 0.45mm. This print came out nice, so these values can be used for a result similar to results from consumer available slicers.
+
 ![test2](/assets/imagesPortfolio/2022-12-15-variable-extrusion/startfishBoth2.jpg)
 
-I started testing with random extrusion. From this point on, I did not change contour height but focused on extrusion amounts. The third test uses a random extrusion divider of range 2.5 and 5. 
+I started testing with random extrusion. From this point on, I did not change contour height but focused on extrusion amounts. The third test uses a random extrusion divider range between 2.5 and 5. I found this range too small that the end result was not very visible. The forth test uses a divider range between 1.8 and 6. The irregularity in extrusion was more prominent in the resulting form.
+
 ![test3](/assets/imagesPortfolio/2022-12-15-variable-extrusion/startfishBoth3.jpg)
 
-Extrusion divider of range 1.8 and 6.
 ![test4](/assets/imagesPortfolio/2022-12-15-variable-extrusion/startfishBoth4.jpg)
 
+I moved on to exploring more procedural extrusions where I could vary but at the same time apply a pattern of extrusion dividers. For this form, I used 0.65mm contour height. The extrusion dividers pattern is 1.5, 7, 7 and 1,5. This pattern repeats until it reaches the end of the point list.
 
-contour height = 0.65
-extrusion divider
-spiral = 3
-pattern of = 1.5 7 7 1.5
+[<img src="/assets/imagesPortfolio/2022-12-15-variable-extrusion/grasshopper-02.jpg"/>](/assets/imagesPortfolio/2022-12-15-variable-extrusion/grasshopper-02.jpg)
 
 ![test5](/assets/imagesPortfolio/2022-12-15-variable-extrusion/startfishBoth5.jpg)
 
