@@ -7,13 +7,13 @@ img: /assets/imagesPortfolio/2022-11-04-paper-manipulation/paperManipulation.gif
 
 I am interested in changing material behavior via digital fabrication. Paper is a 2d material, however, via creating deliberate cuts and folds, you can create 3d forms with it. In this small project, I wanted to test several approaches to paper folding via laser cutting.
 
-My source of inspiration for these projects were:
+My source of inspiration for the project were:
 
 - [Eric Gjerde](https://www.ericgjerde.com/portfolio/folding-the-bauhaus-reverse-engineering-josef-albers-preliminary-course/)'s research on Bauhaus' Preliminary Course projects given by Josef Albers.
 - [Yoshinobu Miyamoto](https://www.flickr.com/photos/yoshinobu_miyamoto/)'s various folding paper projects.
 - [Ron Resch](https://www.youtube.com/watch?v=UXENKmAUL0E&ab_channel=TheNatureOrchestra)'s origami tessellations. I also did a previous research on these patterns, which can be found on my (other) [website](https://asliaydinaksan.wixsite.com/portfolio/schematizing-folding-patterns).
 
-I drew the cut files in Rhinoceros, using only 2D curves.
+I drew the cut files in Rhinoceros, using only 2D curves and cut them on the laser cutter with colored cardboards.
 
 The first set of patterns were designed by studying procedural cut and fold of strips arrayed around a central point. The first pattern lets the strips find their own bending curvature by only fixing them back on the background at only one point. The second pattern has a fold line along the strips which indicates its flexure point. The location of the lines change along the strips to get different heights for the strips.
 
