@@ -39,7 +39,7 @@ The x, y and z coordinates are directly fed to the middle part of the gcode as c
 
 ## 3d printing
 
-<div style="padding:56.3% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/799810822?h=d375bdcc55&autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.3% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/799810822?h=d375bdcc55&autoplay=0&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 I started printing with fixed extrusion divider by 2 and contour height of 0.8mm. I observed that extrusion was too much and contouring distance was too much that the layers were not sticking to each other. The latter problem became more prominant in top layers.
 

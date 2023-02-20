@@ -29,7 +29,7 @@ The first Grasshopper definition generates gcode for modelled solids. The bottom
 
 ![grasshopper definition 0-1](/assets/imagesPortfolio/2023-02-07-pen-plotter/grasshopper-0-1.jpg)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/800517287?h=db8c6d6cee&autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/800517287?h=db8c6d6cee&autoplay=0&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 [<img src="/assets/imagesPortfolio/2023-02-07-pen-plotter/plots0.jpg" width="49%"/>](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots0.jpg)
 [<img src="/assets/imagesPortfolio/2023-02-07-pen-plotter/plots1.jpg" width="49%"/>](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots1.jpg)
