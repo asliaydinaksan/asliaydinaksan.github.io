@@ -42,7 +42,7 @@ I found a used 10mm thick plywood sheet of dimensions 700mm by 1200mm with glue 
 
 In VCarve Pro, I created separate toolpaths for drilling, pockets, inner profiles and outer profiles. I cut the drilling toolpath and fixed the plywood sheet on the milling bed with Woodies. I sent the test part toolpaths to the machine without allowances.
 
-<!-- insert an image the test pieces here -->
+<!-- insert an image of the test piece here -->
 
 <hr>
 ### About Allowances
@@ -56,35 +56,35 @@ In the test parts, no detail was able to slide or fit into each other as expecte
 
 The material definition in VCarve Pro:
 
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/1.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/1.jpg)
+[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/1.JPG" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/1.JPG)
 
 Drilling toolpath for locating the places of screws:
 
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/2.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/2.jpg)
+[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/2.JPG" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/2.JPG)
 
 Pocket toolpath for sliding lid part and lid handles with raster angle 180° and allowance of -1.00mm:
 
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/7.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/7.jpg)
+[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/7.JPG" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/7.JPG)
 
 Pocket toolpath for sliding lid part with raster angle 90° and allowance of -1.0mm:
 
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/8.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/8.jpg)
+[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/8.JPG" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/8.JPG)
 
 Pocket toolpath for sliding bottom part with raster angle 90° and allowance of -0.5mm:
 
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/9.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/9.jpg)
+[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/9.JPG" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/9.JPG)
 
 Inner profile toolpath with inside vectors and allowance of -0.5mm:
 
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/10.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/10.jpg)
+[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/10.JPG" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/10.JPG)
 
 Outer profile toolpath with outside vectors and allowance of -0.3mm:
 
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/11.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/11.jpg)
+[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/11.JPG" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/11.JPG)
 
 3D preview of all toolpaths:
 
-[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/13.jpg" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/13.jpg)
+[<img src="/assets/imagesPortfolio/2022-10-21-personal-box/13.JPG" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/13.JPG)
 
 A few seconds of the milling job. CNC milling machines are really powerful machines. Therefore, they need to be carried out with great focus and observation of the process. Please refer to this [documentation on CNC milling](/_posts/2022-10-12-CNC-milling-with-shopbot.md) for further instructions on how to run the machine and follow the safety protocols.
 

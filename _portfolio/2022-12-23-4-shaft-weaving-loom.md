@@ -2,57 +2,25 @@
 layout: post
 title: 4 Shaft Weaving Loom
 tags: [3d printing, laser cutting, rhinoceros]
-img: /assets/imagesPortfolio/2023-02-07-pen-plotter/penPlotter.gif
+img: /assets/imagesPortfolio/2022-12-23-4-shaft-weaving-loom/loom.gif
 ---
 
-The project explores plotting with pen on the Creality Ender 3 printer. The advantage of plotting on a 3d printer is taking advantage of the z-axis of the printer and making non-linear curves, thus changing line thicknesses.
+The final project of my internship is a 4-shaft weaving loom. The main objective of this project is to make shaft looms available for all users as it is an open source project. The available 4-shaft looms on the market are usually very expensive for hobby weavers and craftspeople who would like experiment with weaving. This is essentially a loom which you can experiment with various patterns and materials. The added functionalities of the loom are: being able to change the tie-up pattern without rewarping the loom (warping a loom is one of the most tedious part of weaving), and being collapsible to allow users to carry it with ease and store is a small space when not used.
 
-The pen holder for the plotter was designed in Rhinoceros and the gcode generation was created in Grasshopper.
+## The Design
 
-## The Pen Holder
+The most essential terminology while weaving is knowing warp and weft threads. The warp threads are the vertical threads that stay in tension and weft threads are the horizontal threads which go over or under the weft threads.
 
-The observation of Creality Ender 3's extruder head indicated to three locations where the pen holder could attach to with minimal intervention to the extruder. I decided to remove the existing screw on the head at point 1 and attach my pen holder at that point (this is the only alteration made to the printer). I also wanted to add clip connection for point 2 and point 3 for extra support so that the pen would not move while in operation.
+<img src="/assets/imagesPortfolio/2022-12-23-4-shaft-weaving-loom/Basic%201-01.jpg" width="50%" class="center">
 
-![pen holder fix](/assets/imagesPortfolio/2023-02-07-pen-plotter/penHolderLoc.jpg)
+There are 5 necessary motions for weaving:
 
-![pen holder design](/assets/imagesPortfolio/2023-02-07-pen-plotter/renders.jpg)
+- Shedding: Separating the warp threads, into two layers to form a v-shaped tunnel known as the shed. The above layer goes over the weft threads and the below layer goes under the weft threads. Shafts are picked up or let down to create the shed.
+- Picking: Passing the weft thread through the shed. The weft threads are usually carried with tools called shuttles.
+- Beating-up: Pushing the newly inserted length of weft, known as the pick, into the already woven fabric at a point known as the fell. The reed is used in this process. It also keeps the warp threads at equal distance from each other.
+- Warp letting-off: Releasing the tension on warp threads from the back beam. This is achieved by special gears called rachets.
+- Cloth taking-up: Rolling the woven cloth on the front beam. This is also achieved by rachets.
 
-![mounted 1](/assets/imagesPortfolio/2023-02-07-pen-plotter/IMG_0874.JPG)
+![loom explained](/assets/imagesPortfolio/2022-12-23-4-shaft-weaving-loom/loomExplained.jpg)
 
-![mounted 2](/assets/imagesPortfolio/2023-02-07-pen-plotter/IMG_0876.JPG)
-
-## Plotting Modelled Solids
-
-The first Grasshopper definition generates gcode for modelled solids. The bottom left corner of the solid are located at point (70,90,0) so that they take into account for the offset between the nozzle and the tip of the pen. The z-axis offset is taken care of within Grasshopper so that the nozzle does not hit the print bed during plotting. 
-
-![rhino modelling 0-1](/assets/imagesPortfolio/2023-02-07-pen-plotter/dwgplots-0-1.jpg)
-
-![grasshopper definition 0-1](/assets/imagesPortfolio/2023-02-07-pen-plotter/grasshopper-0-1.jpg)
-
-![plot 0](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots0.jpg)
-
-![plot 1](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots1.jpg)
-
-## Plotting a Heightfield Map
-
-A heightfield surface of an image is created in Rhinoceros. As an image, I used one of the Chladni plates I found online. The surface is contoured to create a series of curves. Then the curves are imported into Grasshopper. The direction of curves are flipped for every second curve. So that the final result would be a meandering single curve. The splines are divided to find points at certain intervals.
-
-![rhino modelling 2](/assets/imagesPortfolio/2023-02-07-pen-plotter/dwgplots-2.jpg)
-
-![grasshopper definition 2](/assets/imagesPortfolio/2023-02-07-pen-plotter/grasshopper-2.jpg)
-
-![plot 2](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots2.jpg)
-
-## Plotting Separate Entities
-
-This definition necessitates finding the last and first points of separate curves. At the last point of each curve, the pen lifts, moves to the first point of the next curve and repositions itself back on the paper.
-
-![rhino modelling 3-4-5](/assets/imagesPortfolio/2023-02-07-pen-plotter/dwgplots-3-4-5.jpg)
-
-![grasshopper definition 3-4-5](/assets/imagesPortfolio/2023-02-07-pen-plotter/grasshopper-3-4-5.jpg)
-
-![plot 3](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots3.jpg)
-
-![plot 4](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots4.jpg)
-
-![plot 5](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots5.jpg)
+... to be continued ...
