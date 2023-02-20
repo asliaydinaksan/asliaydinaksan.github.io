@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Manipulation
+title: 3D Printer Pen Plotter
 tags: [3d printing, rhinoceros, grasshopper]
 img: /assets/imagesPortfolio/2023-02-07-pen-plotter/penPlotter.gif
 ---
