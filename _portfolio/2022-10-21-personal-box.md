@@ -86,5 +86,14 @@ Outer profile toolpath with outside vectors and allowance of -0.3mm:
 
 [<img src="/assets/imagesPortfolio/2022-10-21-personal-box/13.JPG" width="50%"/>](/assets/imagesPortfolio/2022-10-21-personal-box/13.JPG)
 
-A few seconds of the milling job. CNC milling machines are really powerful machines. Therefore, they need to be carried out with great focus and observation of the process. Please refer to this [documentation on CNC milling](/_posts/2022-10-12-CNC-milling-with-shopbot.md) for further instructions on how to run the machine and follow the safety protocols.
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/800516700?h=ea230ca1e8&autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+CNC milling machines are really powerful machines. Therefore, they need to be carried out with great focus and observation of the process. Please refer to this [documentation on CNC milling](/_posts/2022-10-12-CNC-milling-with-shopbot.md) for further instructions on how to run the machine and follow the safety protocols.
+
+![box1](/assets/imagesPortfolio/2022-10-21-personal-box/IMG_0857.JPG)
+
+![box2](/assets/imagesPortfolio/2022-10-21-personal-box/IMG_0858.JPG)
+
+![box3](/assets/imagesPortfolio/2022-10-21-personal-box/IMG_0862.JPG)
+
+![box4](/assets/imagesPortfolio/2022-10-21-personal-box/IMG_0864.JPG)

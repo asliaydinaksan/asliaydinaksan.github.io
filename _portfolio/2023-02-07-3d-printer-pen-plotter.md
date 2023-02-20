@@ -29,9 +29,10 @@ The first Grasshopper definition generates gcode for modelled solids. The bottom
 
 ![grasshopper definition 0-1](/assets/imagesPortfolio/2023-02-07-pen-plotter/grasshopper-0-1.jpg)
 
-![plot 0](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots0.jpg)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/800517287?h=db8c6d6cee&autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-![plot 1](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots1.jpg)
+[<img src="/assets/imagesPortfolio/2023-02-07-pen-plotter/plots0.jpg" width="49%"/>](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots0.jpg)
+[<img src="/assets/imagesPortfolio/2023-02-07-pen-plotter/plots1.jpg" width="49%"/>](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots1.jpg)
 
 ## Plotting a Heightfield Map
 
@@ -51,8 +52,6 @@ This definition necessitates finding the last and first points of separate curve
 
 ![grasshopper definition 3-4-5](/assets/imagesPortfolio/2023-02-07-pen-plotter/grasshopper-3-4-5.jpg)
 
-![plot 3](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots3.jpg)
-
-![plot 4](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots4.jpg)
-
-![plot 5](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots5.jpg)
+[<img src="/assets/imagesPortfolio/2023-02-07-pen-plotter/plots3.jpg" width="49%"/>](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots3.jpg)
+[<img src="/assets/imagesPortfolio/2023-02-07-pen-plotter/plots4.jpg" width="49%"/>](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots4.jpg)
+[<img src="/assets/imagesPortfolio/2023-02-07-pen-plotter/plots5.jpg" width="49%"/>](/assets/imagesPortfolio/2023-02-07-pen-plotter/plots5.jpg)

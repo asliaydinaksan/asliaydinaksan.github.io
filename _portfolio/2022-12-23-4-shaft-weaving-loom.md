@@ -23,4 +23,5 @@ There are 5 necessary motions for weaving:
 
 ![loom explained](/assets/imagesPortfolio/2022-12-23-4-shaft-weaving-loom/loomExplained.jpg)
 
-... to be continued ...
+## Rachets
+
