@@ -59,14 +59,16 @@ display: line;
     width: 100%;
     text-align: center;
     padding-top: 25px;
-    line-height: 3em;
+    /**line-height: 1.5em;*/
     z-index: 25;
     h1{
         color: $theme-color;
         font-size:50px;
+        line-height: 1.5em;
     }
     h2{
         font-size:20px;
+        line-height: 1.5em;
     }
 }
 
