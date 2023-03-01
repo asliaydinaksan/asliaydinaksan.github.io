@@ -18,7 +18,9 @@ I am making the loom version 2, which will be a digital loom. For this project, 
 
 [Silentstepstick](https://www.trinamic.com/support/eval-kits/details/silentstepstick/)
 
-[Unipolar and Biolar Wiring](https://blog.orientalmotor.com/wiring-basics-unipolar-vs-bipolar#:~:text=The%20main%20difference%20between%20%22unipolar,becomes%20a%20bipolar%2Dseries%20connection.): a general understanding of 
+[Unipolar and Biolar Wiring](https://blog.orientalmotor.com/wiring-basics-unipolar-vs-bipolar#:~:text=The%20main%20difference%20between%20%22unipolar,becomes%20a%20bipolar%2Dseries%20connection.): a general understanding of wiring motors
+
+At this stage, Ella is helping me figure out how to connect the driver, the motor and the arduino board.
 
 Useful exemplary projects:
 
@@ -31,3 +33,19 @@ The pin labeling is very different in all versions of TMC2209. [This](https://ww
 [TMC2209 Arduino Library](https://www.arduinolibraries.info/libraries/tmc2209)
 
 [Serial1 not declared solved](https://forum.arduino.cc/t/serial1-was-not-declared-in-this-scope/606144)
+
+At the end of this day, the motor is still not running.
+
+<hr>
+
+After another day of struggle with Ella on getting the motor do something, I found [this](https://fabacademy.org/2022/labs/kannai/Instruction/tips/stepper_TMC2208/) project from Fab Academy 2022. The documentation shows the Arduino, silentstepstick and stepper motor connections clearly. Although, they used a different driver, it was still useful for us. The motor pins connections we used the previous day were wrong. After making the necessary change and connecting the driver to an external power supply, the motor is spinning now!!
+
+Look into [this](https://forum.arduino.cc/t/simple-stepper-program/268292) code for running a stepper motor.
+
+
+<hr>
+
+Using a solenoid with arduino
+
+- A basic step by step [guide](https://bc-robotics.com/tutorials/controlling-a-solenoid-valve-with-arduino/): I will try this one first.
+- There is also [this tutorial](https://core-electronics.com.au/guides/solenoid-control-with-arduino/).
