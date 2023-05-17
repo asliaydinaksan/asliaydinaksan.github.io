@@ -14,6 +14,9 @@ page is --well-- about me and about how to contact me.
 page is a collection of selected projects realized by me at the lab. 
 
 
+
+---
+
 The website design is modified from :
 
 <a href="http://bogoli.github.io/-folio/">bogoli.github.io</a>
