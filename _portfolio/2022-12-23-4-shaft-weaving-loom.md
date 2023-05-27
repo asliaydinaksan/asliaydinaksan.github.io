@@ -51,3 +51,7 @@ Here are the files required for making your own 4-shaft loom. Download them by c
 - <a href="/assets/imagesPortfolio/2022-12-23-4-shaft-weaving-loom/04_laserCutFiles.zip" download>
   DXF files for laser cutting
 </a>
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
