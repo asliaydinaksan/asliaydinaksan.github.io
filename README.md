@@ -1,6 +1,8 @@
 # Asli Aydin Aksan
 This webpage is dedicated to the documentation of my internship at Fablab Amsterdam / Waag 
 
+For more of my professional work, please visit: [https://asliaydinaksan.wixsite.com/portfolio](https://asliaydinaksan.wixsite.com/portfolio)
+
 
 ## Pages
 
